@@ -5,9 +5,9 @@ title: Me in 10 seconds
 
 <img class="profile-picture" src="{{site.baseurl}}/{{site.profile-picture}}">
 
-Half Norwegian, half Finnish. Traveled the world full-time for the last four years, now settled in Lisbon. Used to be a professional magician, then stumbled into tech. My work is mostly centered around product, design, and growth. 
+I started my career as a magician but moved onto other interests. Even though I no longer practise magic, I still consider myself a magician. The "magician" is one who's in pursuit of power through knowledge, but instead of simple tricks, I now pursue wisdom and virtue more broadly. 
 
-Currently leading product at <a href="https://www.immunefi.com/">Immunefi</a>, and run software agency <a href="https://www.plectanim.com/">Plectanim</a>. 
+The last decade I've travelled full-time across the world and my work as been centered around entrepreneurship, product, and design. More recently I've setteled in Lisbon and did product work at <a href="https://www.immunefi.com/">Immunefi</a>, and now I am a partner at <a href="https://www.offchain.city/">Offchain</a>, a web3 and real-estate fund. 
 
 ### Worth checking out
 - <a href="/articles">Articles</a>
