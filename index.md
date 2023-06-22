@@ -1,13 +1,14 @@
 ---
 layout: default
 title: Me in 10 seconds
+published: true
 ---
 
 <img class="profile-picture" src="{{site.baseurl}}/{{site.profile-picture}}">
 
-I started my career as a magician but moved on to other interests. If you think of the magician as an archtype, it's someone who's in pursuit of power through knowledge. In that regard, I still consider myself a magician, but instead of simple tricks, I now pursue wisdom and virtue more broadly. 
+I work on product and design in Web3. Formerly CPO at <a href="https://www.immunefi.com/">Immunefi</a>, and now Head of Product at <a href="https://www.fuel.network/">Fuel Labs</a> building the future of Ethereum scaling solutions. 
 
-The last decade I've travelled full-time across the world and my work as been centered around entrepreneurship, product, and design. More recently I've setteled in Lisbon and did product work at <a href="https://www.immunefi.com/">Immunefi</a>, and now I am a partner at <a href="https://www.offchain.city/">Offchain</a>, a web3 and real-estate fund. 
+More recently I've setteled in Lisbon and did product work at <a href="https://www.immunefi.com/">Immunefi</a>, and now I am a partner at <a href="https://www.offchain.city/">Offchain</a>, a web3 and real-estate fund. 
 
 ### Worth checking out
 - <a href="/articles">Articles</a>
