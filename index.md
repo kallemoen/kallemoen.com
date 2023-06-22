@@ -8,8 +8,6 @@ published: true
 
 I work on product and design in Web3. Formerly CPO at <a href="https://www.immunefi.com/">Immunefi</a>, and now Head of Product at <a href="https://www.fuel.network/">Fuel Labs</a> building the future of Ethereum scaling solutions. 
 
-More recently I've setteled in Lisbon and did product work at <a href="https://www.immunefi.com/">Immunefi</a>, and now I am a partner at <a href="https://www.offchain.city/">Offchain</a>, a web3 and real-estate fund. 
-
 ### Worth checking out
 - <a href="/articles">Articles</a>
 - <a href="https://workflowy.com/s/book-notes/P3PY4iJlsz9pDsVn"> Book notes</a>
